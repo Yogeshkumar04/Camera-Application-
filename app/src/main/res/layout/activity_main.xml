@@ -6,8 +6,12 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<<<<<<< HEAD
 
 
+=======
+    
+>>>>>>> 2c8ca4fcf0fe09f7f568253b26b95857b6be7a8a
     <androidx.camera.view.PreviewView
         android:id="@+id/viewFinder"
         android:layout_width="match_parent"
