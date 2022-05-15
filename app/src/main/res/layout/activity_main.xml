@@ -18,12 +18,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.077" />
 
-<<<<<<< HEAD
-
-
-=======
-    
->>>>>>> 2c8ca4fcf0fe09f7f568253b26b95857b6be7a8a
     <androidx.camera.view.PreviewView
         android:id="@+id/viewFinder"
         android:layout_width="match_parent"
